@@ -1,0 +1,6 @@
+Reservation ID- 11
+Date-7/6/2003/Client ID- zm252004
+Nr of Days- 13
+Plate Nr- AA456GA
+Total Price- 11700.00
+Booking End Date-20 6 2023
